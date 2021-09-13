@@ -3,3 +3,6 @@ scipy
 flaml
 catboost
 xgboost
+prophet
+h2o
+sktime
