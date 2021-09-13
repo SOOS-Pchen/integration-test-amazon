@@ -6,3 +6,6 @@ xgboost
 prophet
 h2o
 sktime
+flair
+keras
+pyDMD
